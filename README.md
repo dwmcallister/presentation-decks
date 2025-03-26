@@ -1,5 +1,5 @@
 # presentations decks
-slides from talks in 2023, 2024
+slides from talks 
 
 This repo contains my slides for recent talks (sometimes very specific to a particular event).
 
